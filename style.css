@@ -8,7 +8,7 @@ color: #a163c7;
 }
 
 .Quotes {
-  color: #ffccee;
+  color: #a4cbf5;
   opacity: 100;
   text-align: center;
   margin-top: 200px;
@@ -182,6 +182,14 @@ border-radius: 35%;
   margin-left: auto;
   margin-right: auto;
 }
+
+.Projekte {
+  color: #9d82d1;
+  opacity: 100;
+  text-align: center;
+  margin-top: 200px;
+}
+
 
 
 #ft-form {
